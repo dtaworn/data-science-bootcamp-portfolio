@@ -1,6 +1,6 @@
 Data Science Bootcamp - Portfolio
 
-1. Project SQL:
+1. SQL:
 Set up simple pizza restaurant with data tables and queries (Join/Aggregate/Subqueries-WITH)
 File Code: PizzaRestaurant.sql (Ref: https://replit.com/@dtaworn/sqlhomeworkbatch09soe, Press Run to see result)
 

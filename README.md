@@ -12,11 +12,8 @@ File Code: PizzaRestaurant.sql (Ref: https://replit.com/@dtaworn/sqlhomeworkbatc
 
 3. Data Transformation with R:
 ==============================
-3.1 Use library nycflights13 and work with 2 data data frames of flights and airlines to transform data and find data insights
-File Code: TransformationWithR.r
-
-3.2 Set up tables with data in R and then connect to PostgreSQL to write tables
-File Code: ConnectToPostgreSQL.r
+3.1 Use library nycflights13 and work with 2 data data frames of flights and airlines to transform data and find data insights, File Code: TransformationWithR.r
+3.2 Set up tables with data in R and then connect to PostgreSQL to write tables, File Code: ConnectToPostgreSQL.r
 
 4. Data Visualization
 =====================

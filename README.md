@@ -1,11 +1,11 @@
 ## Data Science Bootcamp - Portfolio
 
 ### Table of contents
-* [SQL](#SQL)
-* [R Programming](#R)
-* [Data Transformation with R](#Data-Transformation-with-R)
-* [Data Visualization](#Data-Visualization)
-* [Machine Learning](#Machine-Learning)
+* [SQL](#sql)
+* [R Programming](#r)
+* [Data Transformation with R](#data-transformation-with-r)
+* [Data Visualization](#data-visualization)
+* [Machine Learning](#machine-learning)
 
 ### 1. SQL:
 * Set up simple pizza restaurant with data tables and queries (Join/Aggregate/Subqueries-WITH)
